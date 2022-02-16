@@ -1,0 +1,33 @@
+Script started on 2021-04-10 16:40:26-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="157" LINES="24"]
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ see the warning message if no input[K[K[K[K[K[K cm[Komplete input within 10 seconds
+Error: no such file "the"
+Error: no such file "warning"
+Error: no such file "message"
+Error: no such file "if"
+Error: no such file "no"
+Error: no such file "complete"
+Error: no such file "input"
+Error: no such file "within"
+Error: no such file "10"
+Error: no such file "seconds"
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ ./smallsh
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu/comp8567w2021/project$ t slowly typhurry up, press the "enter key" to continue.
+
+in
+
+Please enter an command within 10 seconds again or you will be annoyed...
+
+/home/danwu/comp8567w2021/project$ $ slowi ly typinghurry up, press the "enter key" to continue.
+
+
+
+Please enter an command within 10 seconds again or you will be annoyed...
+
+/home/danwu/comp8567w2021/project$ $ $ ^C
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ exit
+exit
+
+Script done on 2021-04-10 16:41:16-04:00 [COMMAND_EXIT_CODE="130"]

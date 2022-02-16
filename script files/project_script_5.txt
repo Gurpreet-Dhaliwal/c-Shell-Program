@@ -1,0 +1,72 @@
+Script started on 2021-04-10 16:41:40-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="157" LINES="24"]
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ exit./smallsh
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu/comp8567w2021/project$ ls -lt|more
+
+ prepare to call join/redirect standard output. 
+total 120
+-rw-r--r-- 1 danwu acadperm     0 Apr 10 16:41 prj_script_timing_5.log
+-rw-r--r-- 1 danwu acadperm     0 Apr 10 16:41 project_script_5.txt
+-rw-r--r-- 1 danwu acadperm  1392 Apr 10 16:41 project_script_4.txt
+-rw-r--r-- 1 danwu acadperm  1573 Apr 10 16:41 prj_script_timing_4.log
+-rw-r--r-- 1 danwu acadperm   696 Apr 10 16:39 project_script_2_3.txt
+-rw-r--r-- 1 danwu acadperm   603 Apr 10 16:39 prj_script_timing_2_3.log
+-rw-r--r-- 1 danwu acadperm  1235 Apr 10 16:37 project_script_1.txt
+-rw-r--r-- 1 danwu acadperm  1503 Apr 10 16:37 prj_script_timing_1.log
+-rw-r--r-- 1 danwu acadperm   754 Apr 10 16:36 project_script.tx
+-rw-r--r-- 1 danwu acadperm   229 Apr 10 16:36 prj_script_timing.log
+-rwxr-xr-x 1 danwu acadperm 28824 Apr 10 16:31 smallsh
+-rw-r--r-- 1 danwu acadperm  2183 Apr 10 16:31 userin.c
+-rw-r--r-- 1 danwu acadperm  2866 Apr 10 16:29 proc_line.c
+-rw-r--r-- 1 danwu acadperm  1185 Apr  8 23:19 runcommand.c
+-rw-r--r-- 1 danwu acadperm   140 Apr  8 23:18 listing.txt
+-rw-r--r-- 1 danwu acadperm   325 Apr  8 22:41 smallsh.h
+-rwxr-xr-x 1 danwu acadperm 17256 Apr  4 12:06 calculator
+-rwxr-xr-x 1 danwu acadperm 17256 Apr  4 12:06 jcq4
+-rw-r--r-- 1 danwu acadperm  1976 Apr  4 12:06 jcq4.c
+-rw-r--r-- 1 danwu acadperm  2520 Apr  4 11:33 aaq4.c
+-rw-r--r-- 1 danwu acadperm   934 Mar 19 15:30 join.c
+-rwxr-xr-x 1 danwu acadperm 16992 Mar 19 09:57 quickreply
+[7m--More--[27m-rw-r--r-- 1 danwu acadperm   924 Mar 19 09:57 quickreply.c
+-rw-r--r-- 1 danwu acadperm   157 Jan 18 19:36 main_smallsh.c
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu/comp8567w2021/project$ ls -lt | more
+
+ prepare to call join/redirect standard output. 
+total 120
+-rw-r--r-- 1 danwu acadperm     0 Apr 10 16:41 prj_script_timing_5.log
+-rw-r--r-- 1 danwu acadperm     0 Apr 10 16:41 project_script_5.txt
+-rw-r--r-- 1 danwu acadperm  1392 Apr 10 16:41 project_script_4.txt
+-rw-r--r-- 1 danwu acadperm  1573 Apr 10 16:41 prj_script_timing_4.log
+-rw-r--r-- 1 danwu acadperm   696 Apr 10 16:39 project_script_2_3.txt
+-rw-r--r-- 1 danwu acadperm   603 Apr 10 16:39 prj_script_timing_2_3.log
+-rw-r--r-- 1 danwu acadperm  1235 Apr 10 16:37 project_script_1.txt
+-rw-r--r-- 1 danwu acadperm  1503 Apr 10 16:37 prj_script_timing_1.log
+-rw-r--r-- 1 danwu acadperm   754 Apr 10 16:36 project_script.tx
+-rw-r--r-- 1 danwu acadperm   229 Apr 10 16:36 prj_script_timing.log
+-rwxr-xr-x 1 danwu acadperm 28824 Apr 10 16:31 smallsh
+-rw-r--r-- 1 danwu acadperm  2183 Apr 10 16:31 userin.c
+-rw-r--r-- 1 danwu acadperm  2866 Apr 10 16:29 proc_line.c
+-rw-r--r-- 1 danwu acadperm  1185 Apr  8 23:19 runcommand.c
+-rw-r--r-- 1 danwu acadperm   140 Apr  8 23:18 listing.txt
+-rw-r--r-- 1 danwu acadperm   325 Apr  8 22:41 smallsh.h
+-rwxr-xr-x 1 danwu acadperm 17256 Apr  4 12:06 calculator
+-rwxr-xr-x 1 danwu acadperm 17256 Apr  4 12:06 jcq4
+-rw-r--r-- 1 danwu acadperm  1976 Apr  4 12:06 jcq4.c
+-rw-r--r-- 1 danwu acadperm  2520 Apr  4 11:33 aaq4.c
+-rw-r--r-- 1 danwu acadperm   934 Mar 19 15:30 join.c
+-rwxr-xr-x 1 danwu acadperm 16992 Mar 19 09:57 quickreply
+[7m--More--[27m-rw-r--r-- 1 danwu acadperm   924 Mar 19 09:57 quickreply.c
+-rw-r--r-- 1 danwu acadperm   157 Jan 18 19:36 main_smallsh.c
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu/comp8567w2021/project$ exit
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ exit
+exit
+
+Script done on 2021-04-10 16:42:22-04:00 [COMMAND_EXIT_CODE="5"]

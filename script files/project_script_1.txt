@@ -1,0 +1,31 @@
+Script started on 2021-04-10 16:36:42-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="157" LINES="24"]
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ this isd[K to demo req 1. for your project
+bash: this: command not found
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ ./smallsh 
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu/comp8567w2021/project$ cd
+cd faild:: Success
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu$ I am at home directr ory now.hurry up, press the "enter key" to continue.
+
+
+
+Please enter an command within 10 seconds again or you will be annoyed...
+
+/home/danwu$ $ cd comp8567w2021/code
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu/comp8567w2021/code$ cd ..
+
+Please enter an command within 10 seconds or you will be annoyed...
+
+/home/danwu/comp8567w2021$ exit
+]0;danwu@charlie: ~/comp8567w2021/project[01;32mdanwu@charlie[00m:[01;34m~/comp8567w2021/project[00m$ exit
+exit
+
+Script done on 2021-04-10 16:37:30-04:00 [COMMAND_EXIT_CODE="5"]
